@@ -1,0 +1,6 @@
+[23/06/2024 09:59:31] Error: Table 'full_stack_g8.courst' doesn't exist
+
+[23/06/2024 17:57:19] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[23/06/2024 17:57:19] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+

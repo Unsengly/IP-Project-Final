@@ -1,0 +1,12 @@
+[01/07/2024 08:50:09] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`classroom`, CONSTRAINT `classroom_ibfk_1` FOREIGN KEY (`TeacherId`) REFERENCES `teacher` (`Id`))
+
+[01/07/2024 08:50:12] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`classroom`, CONSTRAINT `classroom_ibfk_1` FOREIGN KEY (`TeacherId`) REFERENCES `teacher` (`Id`))
+
+[01/07/2024 09:07:29] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`classroom`, CONSTRAINT `classroom_ibfk_1` FOREIGN KEY (`TeacherId`) REFERENCES `teacher` (`Id`))
+
+[01/07/2024 09:07:32] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`classroom`, CONSTRAINT `classroom_ibfk_1` FOREIGN KEY (`TeacherId`) REFERENCES `teacher` (`Id`))
+
+[01/07/2024 09:07:53] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`classroom`, CONSTRAINT `classroom_ibfk_1` FOREIGN KEY (`TeacherId`) REFERENCES `teacher` (`Id`))
+
+[01/07/2024 09:18:23] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`classroom`, CONSTRAINT `classroom_ibfk_1` FOREIGN KEY (`TeacherId`) REFERENCES `teacher` (`Id`))
+

@@ -1,0 +1,4 @@
+[23/06/2024 15:43:47] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INNERT JOIN course c on cr.CourseId = c.Id' at line 1
+
+[23/06/2024 15:43:47] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INNERT JOIN course c on cr.CourseId = c.Id' at line 1
+

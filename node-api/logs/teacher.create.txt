@@ -1,0 +1,4 @@
+[02/05/2024 21:32:03] Error: Duplicate entry '096111124' for key 'Tel'
+
+[02/05/2024 21:55:33] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '='So', LastName='Daren', Gender=1, Dob=1, Tel='096111125', Image='', Email='d...' at line 1
+

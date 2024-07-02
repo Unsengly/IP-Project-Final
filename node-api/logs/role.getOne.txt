@@ -1,0 +1,2 @@
+[10/04/2024 21:22:30] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ssSELECT * FROM role WHERE Id = '1'' at line 1
+

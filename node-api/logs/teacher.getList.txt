@@ -1,0 +1,10 @@
+[25/05/2024 18:24:30] Error: Unknown column 'Fristname' in 'where clause'
+
+[11/06/2024 21:08:13] Error: Unknown column 'Id' in 'field list'
+
+[11/06/2024 21:08:13] Error: Unknown column 'Id' in 'field list'
+
+[11/06/2024 21:17:59] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 5, 0' at line 1
+
+[11/06/2024 21:17:59] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 5, 0' at line 1
+

@@ -1,0 +1,4 @@
+[13/05/2024 20:44:00] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1'' at line 1
+
+[13/05/2024 20:44:05] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1'' at line 1
+

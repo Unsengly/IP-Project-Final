@@ -1,0 +1,10 @@
+[20/06/2024 20:15:38] Error: Table 'full_stack_g8.courser' doesn't exist
+
+[20/06/2024 21:03:05] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[20/06/2024 21:03:07] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[20/06/2024 21:04:46] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+
+[20/06/2024 21:07:27] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+

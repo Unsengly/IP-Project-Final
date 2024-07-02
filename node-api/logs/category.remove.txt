@@ -1,0 +1,10 @@
+[29/04/2024 21:13:19] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+
+[30/04/2024 20:59:04] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+
+[01/07/2024 09:01:00] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`course`, CONSTRAINT `course_ibfk_1` FOREIGN KEY (`CategoryId`) REFERENCES `category` (`Id`))
+
+[01/07/2024 09:11:28] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`course`, CONSTRAINT `course_ibfk_1` FOREIGN KEY (`CategoryId`) REFERENCES `category` (`Id`))
+
+[01/07/2024 09:16:46] Error: Cannot delete or update a parent row: a foreign key constraint fails (`project`.`course`, CONSTRAINT `course_ibfk_1` FOREIGN KEY (`CategoryId`) REFERENCES `category` (`Id`))
+

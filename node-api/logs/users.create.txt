@@ -1,0 +1,6 @@
+[29/04/2024 21:21:07] Error: Duplicate entry 'Admin101' for key 'Username'
+
+[29/04/2024 21:21:56] Error: Duplicate entry 'Admin102' for key 'Username'
+
+[29/04/2024 21:24:57] Error: Cannot add or update a child row: a foreign key constraint fails (`full_stack_g8`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`RoleId`) REFERENCES `role` (`Id`))
+
