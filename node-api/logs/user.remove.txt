@@ -1,0 +1,8 @@
+[03/07/2024 15:13:35] Error: Unknown database 'project'
+
+[03/07/2024 15:13:41] Error: Unknown database 'project'
+
+[03/07/2024 15:13:53] Error: Unknown database 'project'
+
+[03/07/2024 15:14:09] Error: Unknown database 'project'
+

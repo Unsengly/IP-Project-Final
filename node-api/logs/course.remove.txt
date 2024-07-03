@@ -10,3 +10,5 @@
 
 [01/07/2024 09:09:55] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
 
+[02/07/2024 19:33:32] Error: ENOENT: no such file or directory, unlink 'C:\xampp\htdocs\fullstack\image_g8\null'
+

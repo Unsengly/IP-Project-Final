@@ -13,7 +13,7 @@ app.use(express.json()); // for parsing application/json
 app.use(express.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 
 app.get("/", (req, res) => {
-  res.send("Hello Express in Node.js. My name is SOK");
+  res.send("");
 });
 
 // call route
