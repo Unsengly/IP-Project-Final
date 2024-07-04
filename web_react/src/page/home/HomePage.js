@@ -35,6 +35,7 @@ const HomePage = () => {
   const [list, setList] = useState(dataProduct);
   return (
     <div style={{ padding: 20, display: "flex", gap: 10 }}>
+    efsd
       {list.map((item, index) => (
         <ProductCart
           key={index}
