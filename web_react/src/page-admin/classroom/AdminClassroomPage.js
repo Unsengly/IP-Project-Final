@@ -56,7 +56,7 @@ function AdminClassroomPage() {
 
   const onClickBtnEdit = (item, index) => {
     setVisible(true);
-    // vannak
+    
     var TimeDuration = [null, null];
     var DateDuration = [null, null];
 

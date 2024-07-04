@@ -27,7 +27,7 @@ const MainLayout = () => {
           <Link to={"/admin"}>Admin</Link>
         </li>
         <li className={styles.item}>
-          <Link to={"/login"}>Loing</Link>
+          <Link to={"/login"}>Login</Link>
         </li>
       </ul>
       {/* <button onClick={onClickBtn1}>Link To About</button> */}
