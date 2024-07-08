@@ -54,7 +54,7 @@ _`Sala`_ : Sala is an intuitive school management system designed to streamline 
 
 - [Ser Long](https://github.com/serlong) - `Developer`
 - [Un Sengly](https://github.com/Unsengly) - `Developer`
-- [VEASNA Dara](https://github.com/daraaveasna) - `Developer`
+- [VEASNA Dara](https://github.com/DaraXBT) - `Developer`
 - [Teang Sreyroth](https://github.com/teangsreyroth08) - `Developer`
 
 ###
